@@ -14,11 +14,10 @@
 1. 安装依赖:
    ```bash
    pip install -r requirements.txt
-配置 API Key:
+2. 配置 API Key:
 在utils/config.py中填入你的API Key
 
-运行评估:
-
+3. 运行评估:
 Bash
 
 python final_eval.py
