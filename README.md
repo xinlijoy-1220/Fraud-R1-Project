@@ -18,7 +18,6 @@
 在utils/config.py中填入你的API Key
 
 3. 运行评估:
-Bash
-
-python final_eval.py
+   ```Bash
+   python final_eval.py
 该命令将直接输出实验结果统计。
